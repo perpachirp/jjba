@@ -1,20 +1,17 @@
-# -----Online Banking-----
+# Online Banking
 
 
 ## Overview and Origin
 
 Chime is an online bank that was founded in 2012 but officialy got launched on April 15, 2014 by Chris Britt and Ryan King. Chime was created as an alternative to traditional banking which could be accessed more easily than your traditional bank would be. Considering that they are an online bank wihtout any actual locations, most of their own revenue comes from small transactional fees every time you use their card to make purchases.
 
-Here is a link to help understand their funding and how much they've recieved: [Funding/Statistics](https://www.businessofapps.com/data/chime-statistics/)
+[Funding/Statistics](https://www.businessofapps.com/data/chime-statistics/)
 
 ## Business Activities:
 
-* What specific financial problem is the company or project trying to solve?
+Chime is intended for everyone to be able to use, however, more GenZ and Millenials seem to use Chime as one of, if not, as their primary bank. Considering the fact that the online banking world has been estimated to have reached over 8 trillion dollars as of 2022, we can see the impact that online banking has been making, especially when the mobile app is so easy to access along with their 24/7 customer support. Another main feature that may sway many people to use Chime is the fact that they let their customers to be able to access their money from their direct deposit up to two days before they even get payed.
 
-* Who is the company's intended customer?  Is there any information about the market size of this set of customers?
-What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
-
-* Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing–– you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)
+[More about their services](https://www.medialogic.com/blog/financial-services-marketing/chime-bank-digital-marketing/)
 
 
 ## Landscape:
