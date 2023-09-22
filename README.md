@@ -1,16 +1,9 @@
-# TITLE
+# Online Banking
 
 ## Overview and Origin
 
-* Name of company
-
-* When was the company incorporated?
-
-* Who are the founders of the company?
-
-* How did the idea for the company (or project) come about?
-
-* How is the company funded? How much funding have they received?
+Chime is an online bank that was founded in 2012 but officialy got launched on April 15, 2014 by Chris Britt and Ryan King. Chime was created as an alternative to traditional banking which could be accessed more easily than your traditional bank would be. Considering that they are an online bank wihtout any actual locations, you might be wondering how they may even have stayed in business for so long.
+[Chime](https://www.chime.com/blog/how-does-chime-make-money/#:~:text=Chime%20is%20able%20to%20make,charges%20merchants%20to%20process%20payments.)
 
 
 ## Business Activities:
